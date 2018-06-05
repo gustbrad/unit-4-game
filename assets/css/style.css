@@ -20,7 +20,7 @@
    background-color: black
 }
 
-#crystal1, #crystal2, #crystal3, #crystal4{
+#crystal-1, #crystal-2, #crystal-3, #crystal-4{
     float: left;
     margin-left: 10px;
     height: 150px;
